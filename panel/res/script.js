@@ -1,3 +1,11 @@
+                /* NOTES HERE */
+/*
+        Script Output Doesn't Work As I Wanted 
+        When Running In A Function With Other
+        InnerHTML Functions.. Will Fix Later!
+
+*/
+
 window.onload = (event) => {
     /*
     document.getElementById("Enable").innerHTML = "Nothing Is Needed To Be Re-Enabled"
@@ -64,7 +72,9 @@ function UnTabTest(){
     openedWindow.close();
 }
 
+/* 
 function xoox(){
     myWindow = window.open("", "myWindow", "width=200, height=100");
     myWindow.innerHTML = "<h1>hi</h1>";
 }
+*/
